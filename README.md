@@ -11,7 +11,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rehmannaveed.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rehmannaveed.com)
-[![Email](https://img.shields.io/badge/Email-rehmannaveed715%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmannaveed715@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rehmannaveeddev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmannaveeddev@gmail.com)
 [![GitHub followers](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehmanstackdev)
 [![Profile Views](https://komarev.com/ghpvc/?username=rehmanstackdev&style=for-the-badge&color=blueviolet)](https://github.com/rehmanstackdev)
 

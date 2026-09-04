@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-I am a passionate **Full Stack Developer** with **3+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
+I am a passionate **Full Stack Developer** with **2+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
 
 ```typescript
 const rehman = {
